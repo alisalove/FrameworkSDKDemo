@@ -1,0 +1,2 @@
+# FrameworkSDKDemo
+shell自动打包静态库Framework以及接入SDK使用
